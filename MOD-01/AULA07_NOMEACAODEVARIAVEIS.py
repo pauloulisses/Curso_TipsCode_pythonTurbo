@@ -11,3 +11,16 @@ print(name)
 use_name = 'EBERSON'
 length = len(use_name)
 print(length)
+
+name2 = 'Chayenne'
+length2 = len(name2)
+print(length2)
+
+#Exercicio
+saber_caractere = input('Digite uma palavra para saber quantos caracteres existe:')
+print(len(saber_caractere))
+
+#prática
+nome = input('Digite seu nome:')
+tamanho = len(nome)
+print(tamanho)

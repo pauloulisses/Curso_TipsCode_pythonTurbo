@@ -3,26 +3,27 @@
 
 num_char = len(input('Qual seu nome? '))
 
+# conversão dinámica
 new_num_char = str(num_char)
 
 print('Seu nome tem ' + new_num_char + 'caracteres ')
 
 
 # TIPO INT
-numeros = 123
-print(type(numeros))
+numeber = 123
+print(type(numeber))
 
 
 
 # TIPO STR
-numero2 =  str(321)
-print(type(numero2))
+number2 =  str(321)
+print(type(number2))
 
 
 # TIPO FLOAT
 
-numero3 = float(456)
-print(type(numero3))
+number3 = float(456)
+print(type(number3))
 
 
 # SOMA 
